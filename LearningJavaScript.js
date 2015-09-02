@@ -9,4 +9,11 @@ console.log(3 * 2); //Prints out what the computer is thinking, in this case 3 *
 "Hi how are you".substring(0, 3); //Returns the substring from 0 to 5th character
 
 //objects
-var obj = {Name="Hari", Age=25, DOB="05/07/1995"};
+var obj = {Name:"Hari", Age:25, DOB:"05/07/1995"
+            NameAge: function() {
+              return this.Name + " " this.Age;
+            }};
+obj.Name;
+obj.Age;
+obj.DOB;
+obj.NameAge();
