@@ -7,3 +7,6 @@ prompt('where are you from?'); // Creates a prompt on a popup block
 console.log(3 * 2); //Prints out what the computer is thinking, in this case 3 * 2
 // > < <= >= === !==
 "Hi how are you".substring(0, 3); //Returns the substring from 0 to 5th character
+
+//objects
+var obj = {Name="Hari", Age=25, DOB="05/07/1995"};
