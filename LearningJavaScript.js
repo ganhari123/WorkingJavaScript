@@ -45,3 +45,13 @@ parseInt()//Parses input and returns integer
 toString()//returns number as string
 
 //Math Objects
+Math.min();
+Math.max();
+Math.random();//Generates number between 0 and 1
+Math.round();
+Math.ceil();
+Math.floor();
+
+Date();//Current date
+Date("Any string representing a date");
+Date(500000000000); //Number represented in miliseconds + original date
