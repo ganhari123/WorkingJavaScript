@@ -17,3 +17,11 @@ obj.Name;
 obj.Age;
 obj.DOB;
 obj.NameAge();
+
+//HTML Events
+onchange
+onclick
+onmouseover
+onmouseout
+onkeydown
+onload
