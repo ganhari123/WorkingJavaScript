@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-This is anotherrrrrr test file!!!!!
-=======
 This is anotherrrrrr test file!!!!!
 
 Another edit
->>>>>>> locB
