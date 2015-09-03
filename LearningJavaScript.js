@@ -25,3 +25,23 @@ onmouseover
 onmouseout
 onkeydown
 onload
+
+
+//Numbers
+var x = 34.6;
+var y = 123e6;
+Infinity is constant
+typeof Infinity === Number
+NaN is not an Number: 100/"Apple" will return this
+Objects cannot be compared in javascript
+MAX_VALUE
+MIN_VALUE
+NEGATIVE_INFINITY
+NaN
+POSITIVE_INFINITY
+Number()//converts to type Number
+parseFloat()//Parses input and returns float
+parseInt()//Parses input and returns integer
+toString()//returns number as string
+
+//Math Objects
