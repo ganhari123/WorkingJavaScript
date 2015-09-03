@@ -56,5 +56,8 @@ Date();//Current date
 Date("Any string representing a date");
 Date(500000000000); //Number represented in miliseconds + original date
 //These are date functions
-getDate()//Get day from 1-31
-getDay()//get weekday from 0-6
+var d = new Date();
+d.getDate()//Get day from 1-31
+d.getDay()//get weekday from 0-6
+d.setDate()//sets the new date of variable
+d.parse()//Finds the number of milliseconds from January 1st 1970 to date in input
