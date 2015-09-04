@@ -17,6 +17,6 @@ function secondFunct() {
 }
 
 function thirdFunct() {
-  var obj = {name:"Hari", age:"20"};
-  alert(obj.name);
+  var obj = {name:"Hari", age:"20", nameAge: function(){return name + " " + age}};
+  alert(obj.nameAge());
 }

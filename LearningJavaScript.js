@@ -64,3 +64,6 @@ d.parse()//Finds the number of milliseconds from January 1st 1970 to date in inp
 
 //Arrays
 var arr = [25, 23, 21, 20];
+arr.length
+arr.sort()
+//if you add something out of bounds in an array, creates undefined values in between
